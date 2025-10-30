@@ -13,7 +13,7 @@ Dashboard analytics system untuk monitoring performa toko e-commerce Tokopedia d
 ## 🛠️ Implementation
 ```bash
 pip install -r requirements.txt
-python code/monthly_trend.py
-python code/sales_by_category.py
-python code/customers_insights.py
-python code/operational_excellence.py
+python code/3-monthly-trends.py
+python code/sales-by-category.py
+python code/customers-insights.py
+python code/operational-excellence.py
